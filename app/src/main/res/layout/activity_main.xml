@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World this is my first pipeline \n with jenkins, commit 1...!"
+        android:text="Hello World this is my first pipeline \n with jenkins, commit 2 from tcs...!"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
